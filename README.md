@@ -1,14 +1,19 @@
 ### 👋 Hi, I'm Azamat
 
-📱 iOS & macOS Developer  
-🔧 Creator of [FortyGunsMailSDK] – lightweight, secure IMAP engine for Apple platforms  
+🧑‍💻 Software Engineer & Systems Architect  
+📱 iOS Development | Backend Integration  
+🔧 Creator of [FortyGunsMailSDK] – secure, lightweight IMAP engine for Apple platforms  
 📬 Reach me: [@axecapkz](https://t.me/axecapkz)
 
 ---
-🛠️ Focused on:
-• Swift / SwiftUI / macOS  
-• Email protocols (IMAP, SMTP)  
-• Clean architecture & secure development
+
+🛠️ Technical Focus:
+• Swift / SwiftUI / Combine / macOS  
+• Email protocols (IMAP, SMTP, MIME)  
+• Secure architecture & low-level systems integration  
+• Clean, testable codebases and modular SDK design
+
+---
 
 <!---
 axecapkz/axecapkz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
