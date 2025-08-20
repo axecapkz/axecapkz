@@ -1,7 +1,14 @@
-- 👋 Hi, I’m Azamat (iOS Developer)
-- 🌱 I’m interested in Software developing
-- 💞️ I’m looking to collaborate on any projects to gain experience and build strong knowledges
-- 📫 How to reach me @axecapkz (telegram)
+### 👋 Hi, I'm Azamat
+
+📱 iOS & macOS Developer  
+🔧 Creator of [FortyGunsMailSDK] – lightweight, secure IMAP engine for Apple platforms  
+📬 Reach me: [@axecapkz](https://t.me/axecapkz)
+
+---
+🛠️ Focused on:
+• Swift / SwiftUI / macOS  
+• Email protocols (IMAP, SMTP)  
+• Clean architecture & secure development
 
 <!---
 axecapkz/axecapkz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
