@@ -8,7 +8,7 @@
 ---
 
 🛠️ Technical Focus:
-• Swift / SwiftUI / Combine / macOS  
+• Swift / SwiftUI / Combine
 • Email protocols (IMAP, SMTP, MIME)  
 • Secure architecture & low-level systems integration  
 • Clean, testable codebases and modular SDK design
